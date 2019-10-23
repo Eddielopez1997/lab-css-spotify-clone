@@ -11,6 +11,22 @@ White: #FFF
     margin: 0;
 }
 
+#navbar p {
+    display: inline;
+    left: 50%;
+}
+
+  
+#button-one, #button-two, #button-three, #button-four {
+    float: right;
+}
+
+#navbar{
+    position: relative;
+    height: 100px;
+    width: 100%;
+}
+
 #music-fe{
     background-image: url("../images/landing.jpg");
     background-size: cover;
